@@ -1,0 +1,4 @@
+gateway:
+  controlUi:
+    allowedOrigins:
+      - "*"
